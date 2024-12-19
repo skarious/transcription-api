@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  transcription-api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./:/app
+    environment:
+      - MODEL_SIZE=base  # puedes cambiar a small, medium, o large
+    restart: unless-stopped
