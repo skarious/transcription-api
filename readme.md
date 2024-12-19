@@ -54,9 +54,11 @@ Puedes configurar el tamaño del modelo Whisper en el `docker-compose.yml`:
 - `medium`: Más preciso, más lento
 - `large`: La mayor precisión, pero requiere más recursos
 
-## Licencia
 
-MIT
+## Licencia
+Este proyecto está licenciado bajo los términos de la licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).  
+Para más detalles, consulta el archivo LICENSE.md o visita [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 
 ## Contribuir
 
