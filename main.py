@@ -1,3 +1,6 @@
+# Este archivo está bajo la licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+# Para más información, visita: https://creativecommons.org/licenses/by-nc-sa/4.0/
+# Autor: [Ronald Schneider Hamann](https://github.com/skarious)
 from fastapi import FastAPI, UploadFile, File, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 import whisper
